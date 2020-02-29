@@ -1,12 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to My GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/gazi-dis/gazi-dis.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+My projects is listing in under.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### StrapFiy
 
-### Markdown
+StrapFiy is single main page Spotify's replica.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Image](https://raw.githubusercontent.com/gazi-dis/strapfiy/master/screenshot.png)
+
+### Mersin Bus Tracking Bot
+
+This bot can tracking bus out time.
+
+![Image](https://raw.githubusercontent.com/gazi-dis/strapfiy/master/screenshot.png)
+
+
 
 ```markdown
 Syntax highlighted code block
